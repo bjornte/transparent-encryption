@@ -1,6 +1,6 @@
 # Transparent encryption
 
-Welcome, please make any changes as you wish! This is a completely open discussion.
+Welcome, please make any changes as you wish! This is a completely open discussion. Also, surely this concept has been described elsewhere. If you know where, please provide a link. I have Googled but not found anything. Perhaps I’m missing a term. –Bjørn
 
 Background
 ---
