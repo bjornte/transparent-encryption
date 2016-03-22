@@ -23,7 +23,7 @@ Intended benefits
 First draft
 ---
 * Multiple organizations, both governmental, commercial and [NGOs][NGO], make themselves available for upload of **partial passwords** and **partial content repositories**. Below, these organizations as referred to as «key holders».
-* The customer chooses which organizations to upload her partial passwords to. E.g., an Canadian customer may choose to share partials with [Amnesty][Amnesty], [UBS][UBS] and the Canadian government.
+* The customer chooses herself to which key holders she will upload her partial passwords. E.g., a Canadian customer may choose to share partials with [Amnesty][Amnesty], [UBS][UBS] and the Canadian government.
 * These partial passwords can be combined into **complete passwords** and **complete content repositories** in a controlled setting.
 * This controlled setting, which assumedly must adhere to strict formal requirements, has the purpose of detecting criminal behavior.
   * Perhaps naïvely, I’m imagining some physical locations such as the [European Court of Human Rights][ECtHR] where the key holders come together to perform screening. The screening is limited only to defined use cases that are seen as beneficial by the respective key holders (or possibly to a superior organ, I can only think of the UN).
