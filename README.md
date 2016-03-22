@@ -1,4 +1,9 @@
 # Transparent encryption
+
+Welcome, please make any changes as you wish! This is a completely open discussion.
+
+Background
+---
 A discussion on how to create controlled insight (screening) into encrypted communication
 
 *Make it harder to commit crimes<sup>1</sup> by allowing residents to voluntarily aid law enforcement by making their digital assets available in a controlled screening scenario.*
