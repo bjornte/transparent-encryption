@@ -6,7 +6,7 @@ Background
 ---
 A discussion on how to create controlled insight (screening) into encrypted communication
 
-*Make it harder to commit crimes<sup>1</sup> by allowing residents to voluntarily aid law enforcement by making their digital assets available in a controlled screening scenario.*
+*Make it harder to commit crimes<sup>1</sup> by allowing residents to (voluntarily?) aid law enforcement by making their digital assets available in a controlled screening scenario.*
 
 As of 2016, Tim Cook and Barack Obama is in a divisive fight over encryption, privacy rights and law enforcement’s need of screening our communication for unlawful content. Both Cook and Obama have [MLK][MLK] as an idol, so I’m assuming both want good to prevail. This repository is intended as a discussion (at least initially) for how to bridge the current gap between the parties.
 
