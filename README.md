@@ -1,7 +1,7 @@
 # transparent-encryption
 A discussion on how to create controlled insight (screening) into encrypted communication
 
-This project is considered merged with Phynti. Proposed new description of Phynti below. Old README for this repository is [here](README-old.md)
+This project is considered merged with [Phynti][]. Proposed new description of Phynti below. Old README for this repository is [here](README-old.md)
 
 # Phynti UX spec (wireframes & written material)
 
@@ -98,6 +98,7 @@ Scenarios:
 * **Malicious user with suspiscious content:** Some results are produced for the user. The NGOs review the results and deem them potentially suspiscious. The law enforcement agency is given results in which indenties are substituted with pseudonyms. It convinces the NGOs that there is a case for formal investigation. The individual's identity is revealed.
 
 
+[phynti]: https://phynti.com
 [phynti.com]: https://phynti.com
 [phynti-com-safe-rooms]: https://phynti.com/safe-rooms
 [phynti-com-safe-room-scenarios]: https://phynti.com/safe-room-scenarios
