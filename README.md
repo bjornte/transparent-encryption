@@ -81,7 +81,7 @@ The dictionaries are fed into a search service that monitor the [document corpus
 
 The search service is hosted in a environment physically controlled by the service providers. The key fragments are supplied by the NGOs, and only when these have green lighted the content of the dictionaries. Law enforcement agencies do not have access to the content itself, but only to extracts indicating a safety threat, and only when submitted at the discretion of the participating NGOs. 
 
-Before result output is presented to any user (either NGO or law enforcement representative), it is redacted such that both data owners and individualt mentioned will remain anonymous, through employment of hashed IDs (persistent pseudonyms). Only when the NGOs, on a case to case basis, accept that there is sufficient basis for format threat investigation, will the search publish actual identities.
+Before result output is presented to any user (either NGO or law enforcement representative), it is redacted such that both data owners and individuals mentioned will remain anonymous, through employment of hashed IDs (persistent pseudonyms). Only when the NGOs, on a case to case basis, accept that there is sufficient basis for format threat investigation, will the search publish actual identities.
 
 ## Safe room scenarios ([phynti.com/safe-room-scenarios][phynti-com-safe-room-scenarios])
 
@@ -97,9 +97,9 @@ Scenarios:
 
 * **Innocent, non suspicious user:** No results are produced for the user. Unless explicitly requested by the user, the law enforcement agency is not informed that the user had content which was scanned.
 * **Malicious user with innocent-looking content:** As above. 
-* **Innocent user with irrellevant content that matches the dictionary:** Some results are produced for the user. The NGOs review the results and deem them irrellevant. The law enforcement agency is not informed that the user had content which was scanned. If the scan is performed across a large user base, the law enforcement agency is informed how many results were deemed irrellevant.
-* **Innocent user with suspicious content:** Some results are produced for the user. The NGOs review the results and deem them potentially suspicious. The law enforcement agency is given results in which indenties are substituted with pseudonyms. It cannot make a case for formal investigation, and the individual's identity is not revealed.
-* **Malicious user with suspicious content:** Some results are produced for the user. The NGOs review the results and deem them potentially suspicious. The law enforcement agency is given results in which indenties are substituted with pseudonyms. It convinces the NGOs that there is a case for formal investigation. The individual's identity is revealed.
+* **Innocent user with irrelevant content that matches the dictionary:** Some results are produced for the user. The NGOs review the results and deem them irrelevant. The law enforcement agency is not informed that the user had content which was scanned. If the scan is performed across a large user base, the law enforcement agency is informed how many results were deemed irrelevant.
+* **Innocent user with suspicious content:** Some results are produced for the user. The NGOs review the results and deem them potentially suspicious. The law enforcement agency is given results in which indentities are substituted with pseudonyms. It cannot make a case for formal investigation, and the individual's identity is not revealed.
+* **Malicious user with suspicious content:** Some results are produced for the user. The NGOs review the results and deem them potentially suspicious. The law enforcement agency is given results in which indentities are substituted with pseudonyms. It convinces the NGOs that there is a case for formal investigation. The individual's identity is revealed.
 
 
 [phynti]: https://phynti.com
