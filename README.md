@@ -1,7 +1,10 @@
 # transparent-encryption
 A discussion on how to create controlled insight (screening) into encrypted communication
 
-This project is considered merged with [Phynti][]. Proposed new description of Phynti below. Old README for this repository is [here](README-old.md)
+* This project is considered merged with [Phynti][]. Proposed new description of Phynti below. 
+* Old readme for this repository is [here](README-old.md).
+
+---
 
 # Phynti UX spec (wireframes & written material)
 
