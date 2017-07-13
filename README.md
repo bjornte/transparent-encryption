@@ -1,7 +1,8 @@
 # transparent-encryption
 A discussion on how to create controlled insight (screening) into encrypted communication
 
-* This project is considered merged with [Phynti][]. Proposed new description of Phynti below. 
+* This project is considered merged with [Phynti][] by [Torgeir Hovden][]. 
+* Proposed new description of Phynti below. 
 * Old readme for this repository is [here](README-old.md).
 
 ---
@@ -105,6 +106,7 @@ Scenarios:
 [phynti.com]: https://phynti.com
 [phynti-com-safe-rooms]: https://phynti.com/safe-rooms
 [phynti-com-safe-room-scenarios]: https://phynti.com/safe-room-scenarios
+[Torgeir Hovden]: https://github.com/thovden (Torgeir Hovden's profile on GitHub)
 [master passphrase]: #master-passphrase
 [encryption]: https://en.wikipedia.org/wiki/Encryption (Encryption – Wikipedia)
 [the industry's best encryption]: phyntis-encryption-scheme (Phynti's encryption scheme)
