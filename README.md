@@ -95,11 +95,11 @@ All scenarios starts as follows:
 
 Scenarios:
 
-* **Innocent, non suspiscious user:** No results are produced for the user. Unless explicitly requested by the user, the law enforcement agency is not informed that the user had content which was scanned.
+* **Innocent, non suspicious user:** No results are produced for the user. Unless explicitly requested by the user, the law enforcement agency is not informed that the user had content which was scanned.
 * **Malicious user with innocent-looking content:** As above. 
 * **Innocent user with irrellevant content that matches the dictionary:** Some results are produced for the user. The NGOs review the results and deem them irrellevant. The law enforcement agency is not informed that the user had content which was scanned. If the scan is performed across a large user base, the law enforcement agency is informed how many results were deemed irrellevant.
-* **Innocent user with suspiscious content:** Some results are produced for the user. The NGOs review the results and deem them potentially suspiscious. The law enforcement agency is given results in which indenties are substituted with pseudonyms. It cannot make a case for formal investigation, and the individual's identity is not revealed.
-* **Malicious user with suspiscious content:** Some results are produced for the user. The NGOs review the results and deem them potentially suspiscious. The law enforcement agency is given results in which indenties are substituted with pseudonyms. It convinces the NGOs that there is a case for formal investigation. The individual's identity is revealed.
+* **Innocent user with suspicious content:** Some results are produced for the user. The NGOs review the results and deem them potentially suspicious. The law enforcement agency is given results in which indenties are substituted with pseudonyms. It cannot make a case for formal investigation, and the individual's identity is not revealed.
+* **Malicious user with suspicious content:** Some results are produced for the user. The NGOs review the results and deem them potentially suspicious. The law enforcement agency is given results in which indenties are substituted with pseudonyms. It convinces the NGOs that there is a case for formal investigation. The individual's identity is revealed.
 
 
 [phynti]: https://phynti.com
