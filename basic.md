@@ -2,15 +2,13 @@
 
 # Create a free Phynti account in 90 seconds
 
-To do: Add more content.
-
 | Your e-mail address:               | `____________________`  | |
 | Choose your master passphrase:     | `____________________`  | (1) |
 | 1st friend's e-mail:               | `____________________`  | (2) |
 | 2nd friend's e-mail:               | `____________________`  | |
 | 3rd friend's e-mail:               | `____________________`  | |
 
-[Create account][]
+<button>Create account</button>
 
 If you want additional choices, such as making your bank a *mandatory key holder*, please use the [custom setup][].
 
@@ -20,6 +18,10 @@ If you want additional choices, such as making your bank a *mandatory key holder
 
 [Create account]: #create
 [Custom setup]: custom
+
+---
+
+To do: Add more content. Some tests below.
 
 [Test button 1](http://www.google.com){: .btn}
 
