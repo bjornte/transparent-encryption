@@ -12,19 +12,22 @@ By default, Phynti employs both [SHA-512 and SHA-3][Secure Hash Algorithms]. Bot
 
 ## Key fragments are distributed to your friends and other key holders.
 
-(To do: Write documentation here.)
+(To do: Write more documentation here.)
+
+An method called [secret sharing][], designed by Adi Shamir and  George Blakley, is employed to split the master passphrase into key fragments. The [basic][] setup is *three* key fragments of which *any two* will uncover your master passphrase (when combined with a single-use SMS code sent to your phone). The [custom][] setup allows you to tailor this further, for instance by making your bank a *mandatory key holder*.
 
 ### There are three types of key holders
 
-(To do: Write documentation here.)
+(To do: Write more documentation here.)
 
 * **Friends** make up the default key holders for a basic Phynti account.
-* **Mandatory key holders** such as banks may further strengthen the security by requiring formal procedures to provide keys.
+* **Mandatory key holders**, such as your bank, may further strengthen the security by requiring formal procedures to provide keys.
 * **[Non government key holders][]** safeguard the keys when performing threat monitoring in [safe rooms][].
 
 --> Set up a [free, basic Phynti account][] or [tailor Phynti to your needs][].
 
 [Secure Hash Algorithms]: https://en.wikipedia.org/wiki/Secure_Hash_Algorithms
+[secret sharing]: https://en.wikipedia.org/wiki/Secret_sharing
 [free, basic Phynti account]: basic
 [tailor Phynti to your needs]: custom
 [Non government key holders]: non-government-key-holders
