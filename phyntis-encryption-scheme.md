@@ -8,4 +8,4 @@ By default, Phynti employs both [SHA-512 and SHA-3][Secure Hash Algorithms]. Bot
 
 [Secure Hash Algorithms]: https://en.wikipedia.org/wiki/Secure_Hash_Algorithms
 [free, basic Phynti account]: basic
-[tailor Phynti to your needs]: tailor
+[tailor Phynti to your needs]: custom
