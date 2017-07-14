@@ -27,7 +27,7 @@ The basic setup is _three_ key fragments of which _any two_ will uncover your ma
 * When [safe rooms][] becomes available, my preferred [NGO key holder(s)][] are `Amnesty International and the Norwegian Bar Association ▼` 
 * My encryption scheme is `SHA-512 enveloped in SHA-3 ▼`.
 
-[Click here][tailor] to finish setting up your tailored Phynti.
+[Click here][custom] to finish setting up your tailored Phynti.
 
 ## Safe rooms
 
@@ -38,7 +38,7 @@ Phynti plans to offer [safe rooms][] where scans for safety threats can happen w
 [the industry's best encryption]: phyntis-encryption-scheme
 [two factor authentication]: https://en.wikipedia.org/wiki/Multi-factor_authentication
 [basic]: basic
-[tailor]: tailor
+[custom]: custom
 [banks]: #banks
 [NGOs]: #NGOs
 [NGO key holder(s)]: #NGOs
