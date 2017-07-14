@@ -20,7 +20,7 @@ A discussion on how to create controlled insight (screening) into encrypted comm
 [phynti]: https://phynti.com
 [Phynti landing page]: phynti-landing-page
 [Safe rooms]: safe-rooms
-[Encryption scheme]: phyntis-encryption-scheme 
+[Encryption scheme]: encryption-scheme 
 [How do the safe rooms work?]: how-do-the-safe-rooms-work
 [What is a safe room dictionary?]: what-is-a-safe-room-dictionary
 [How are the dictionaries used?]: how-are-the-dictionaries-used
