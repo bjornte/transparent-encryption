@@ -10,9 +10,9 @@ Before result output is presented to any user (either NGO or law enforcement rep
 
 [Document corpus]: https://en.wikipedia.org/wiki/Text_corpus
 [service providers]: service-providers
-[Participating NGOs]: non-government-organisations
+[Participating NGOs]: non-government-key-holders
 [Law enforcement agencies]: law-enforcement-agencies
-[key fragments]: key-fragments
+[key fragments]: encryption-scheme
 [hashed]: https://en.wikipedia.org/wiki/Cryptographic_hash_function
 [Safe room]: safe-rooms
 [Safe rooms]: safe-rooms
