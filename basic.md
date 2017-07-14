@@ -21,3 +21,5 @@ If you want additional choices, such as making your bank a *mandatory key holder
 [Create account]: #create
 [Custom setup]: custom
 
+[Click me](http://www.google.com){: .btn}
+
