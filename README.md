@@ -9,26 +9,15 @@ A discussion on how to create controlled insight (screening) into encrypted comm
 
 # Phynti UX spec (wireframes & written material)
 
-* [phynti.com landing page][phynti-landing-page]
+* [phynti.com landing page][Phynti landing page]
+* [Safe rooms][]
 
 ### Phynti's encryption scheme
 <a name="phyntis-encryption-scheme"></a>
 
 By default, Phynti employs both [SHA-512 and SHA-3][Secure Hash Algorithms]. Both are Secure Hash Algorithms from a family of cryptographic hash functions. SHA-512 was designed by the NSA in 2001. SHA-3, formerly called Keccak, was designed by non-NSA designers in 2015, and its internal structure differs significantly. Your Phynti passphrase is split in two separate hashes used as passwords for the individual algorithms, and both are used (sequentially) to encrypt all your content.
 
-## Phynti safe rooms ([phynti.com/safe-rooms][phynti-com-safe-rooms])
 
-### A common ground for public safety and personal privacy
-
-Both the EU, USA and other nations are evaluating or implementing legislations that will enforce citizens to unlock their data for scanning for safety threats (such as terrorist planning and illegal depiction of minors). 
-
-Previously, the technical community has strongly resisted such legislation due to fears of safety breaches and undesired governmental surveillance. 
-
-Phynti's safe rooms offers a common ground where safety and privacy can coexist. The safe rooms have uncompromised security, safeguarded in part by non governmental agencies (NGOs), while allowing law enforcement agencies to fulfil their threat monitoring duties. 
-
-Phynti safe rooms are safer than other alternatives since threat monitoring technically cannot take place without the discretion of NGOs. The safe rooms do not compromise the basic encryption through use of backdoors or weaker algorithms, which are the alternatives currently being evaluated or implemented elsewhere.
-
-The safe rooms are under planning. [Click here][newsletter] to receive our development newsletter. Until legislation enforces such scans, safe room participation is voluntary.
 
 ### How do the safe rooms work?
 
@@ -77,7 +66,8 @@ Scenarios:
 
 [phynti]: https://phynti.com
 [phynti.com]: https://phynti.com
-[phynti-landing-page]: phynti-landing-page
+[Phynti landing page]: phynti-landing-page (Phynti.com's proposed landing page)
+[safe rooms]: safe-rooms (Phynti.com's proposed safe room landing page)
 [phynti-com-safe-rooms]: https://phynti.com/safe-rooms
 [phynti-com-safe-room-scenarios]: https://phynti.com/safe-room-scenarios
 [Torgeir Hovden]: https://github.com/thovden (Torgeir Hovden's profile on GitHub)
@@ -86,7 +76,6 @@ Scenarios:
 [the industry's best encryption]: phyntis-encryption-scheme (Phynti's encryption scheme)
 [Secure Hash Algorithms]: https://en.wikipedia.org/wiki/Secure_Hash_Algorithms (Secure Hash Algorithms – Wikipedia)
 [bootstrap]: #bootstrap
-[safe rooms]: #safe-rooms
 [dictionaries]: #dictionaries
 [hashes]: https://en.wikipedia.org/wiki/Cryptographic_hash_function (Cryptographic hash function – Wikipedia)
 [tailor]: #tailor
