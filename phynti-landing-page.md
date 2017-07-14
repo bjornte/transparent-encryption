@@ -1,3 +1,5 @@
+(Proposed UX specification for Phynti's future landing page)
+
 ## Phynti
 
 _Keep your digital assets safe by trusting your friends._
