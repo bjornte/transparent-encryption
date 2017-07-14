@@ -19,6 +19,7 @@ Read more:
 * [How do the safe rooms work?][]
 * [What is a safe room dictionary?][]
 * [How are the dictionaries used?][]
+* [Safe room scenarios][]
 
 The safe rooms are under planning. [Click here][newsletter] to receive our development newsletter. Until legislation enforces such scans, safe room participation is voluntary.
 
@@ -26,3 +27,4 @@ The safe rooms are under planning. [Click here][newsletter] to receive our devel
 [How do the safe rooms work?]: how-do-the-safe-rooms-work
 [What is a safe room dictionary?]: what-is-a-safe-room-dictionary
 [How are the dictionaries used?]: how-are-the-dictionaries-used
+[Safe room scenarios]: safe-room-scenarios
