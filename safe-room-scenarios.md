@@ -6,7 +6,7 @@ All scenarios starts as follows:
 
 * The user has [signed up][] with Phynti, either voluntary or due to legislation changes, and has selected her [NGO key holders][]. 
 * The [law enforcement agency][] wants to perform threat monitoring. It provides a dictionary which is green lighted by the NGOs. 
-* In the safe room, to which the law enforcement agency does not have access, the NGOs (and other mandatory key holders) supply key * fragments as well as the dictionary. 
+* In the safe room, to which the law enforcement agency does not have access, the NGOs (and other mandatory key holders) supply [key fragments][] as well as the dictionary. 
 * The [service provider][] supplies encrypted data. 
 * The content is decrypted and the search performs the scan. 
 
@@ -25,3 +25,4 @@ Scenarios:
 [NGO key holders]: non-government-organisation
 [service provider]: service-provider
 [signed up]: basic
+[key fragments]: key-fragments
