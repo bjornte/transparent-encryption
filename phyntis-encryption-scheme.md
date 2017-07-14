@@ -1,4 +1,4 @@
-(Proposed UX specification for Phynti’s documentation page for it's encryption scheme, [https://phynti.com/encryption-scheme])
+(Proposed UX specification for Phynti’s documentation page for it's encryption scheme, https://phynti.com/encryption-scheme)
 
 ### Phynti's encryption scheme
 
