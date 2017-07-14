@@ -12,6 +12,6 @@ Before result output is presented to any user (either NGO or law enforcement rep
 [service providers]: service-providers
 [Participating NGOs]: non-government-organisations
 [Law enforcement agencies]: law-enforcement-agencies
-[key fragments] key-fragments
+[key fragments]: key-fragments
 [hashed]: https://en.wikipedia.org/wiki/Cryptographic_hash_function
 [Safe rooms]: safe-rooms
