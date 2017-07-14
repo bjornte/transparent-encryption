@@ -23,6 +23,6 @@ Scenarios:
 [Safe rooms]: safe-rooms
 [Law enforcement agency]: law-enforcement-agencies
 [NGO key holders]: non-government-key-holders
-[service provider]: service-provider
+[service provider]: service-providers
 [signed up]: basic
 [key fragments]: phyntis-encryption-scheme
