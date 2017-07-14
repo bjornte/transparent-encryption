@@ -25,4 +25,4 @@ Scenarios:
 [NGO key holders]: non-government-key-holders
 [service provider]: service-provider
 [signed up]: basic
-[key fragments]: key-fragments
+[key fragments]: phyntis-encryption-scheme
