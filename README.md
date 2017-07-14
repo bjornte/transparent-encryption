@@ -14,17 +14,8 @@ A discussion on how to create controlled insight (screening) into encrypted comm
 * [Safe rooms][]
     * [How do the safe rooms work?][]
     * [What is a safe room dictionary?][]
+    * [How are the dictionaries used?][]
  
-
-
-
-### How are the dictionaries used?
-
-The dictionaries are fed into a search service that monitor the [document corpus][] for matching content. The search has support for both linguistic operations and deep learning (neural networks).
-
-The search service is hosted in a environment physically controlled by the service providers. The key fragments are supplied by the NGOs, and only when these have green lighted the content of the dictionaries. Law enforcement agencies do not have access to the content itself, but only to extracts indicating a safety threat, and only when submitted at the discretion of the participating NGOs. 
-
-Before result output is presented to any user (either NGO or law enforcement representative), it is redacted such that both data owners and individuals mentioned will remain anonymous, through employment of hashed IDs (persistent pseudonyms). Only when the NGOs, on a case to case basis, accept that there is sufficient basis for format threat investigation, will the search publish actual identities.
 
 ## Safe room scenarios ([phynti.com/safe-room-scenarios][phynti-com-safe-room-scenarios])
 
@@ -52,6 +43,7 @@ Scenarios:
 [Encryption scheme]: phyntis-encryption-scheme 
 [How do the safe rooms work?]: how-do-the-safe-rooms-work
 [What is a safe room dictionary?]: what-is-a-safe-room-dictionary
+[How are the dictionaries used?]: how-are-the-dictionaries-used
 [phynti-com-safe-rooms]: https://phynti.com/safe-rooms
 [phynti-com-safe-room-scenarios]: https://phynti.com/safe-room-scenarios
 [Torgeir Hovden]: https://github.com/thovden
@@ -74,7 +66,7 @@ Scenarios:
 [Secret sharing]: https://en.wikipedia.org/wiki/Secret_sharing
 [fuzzy matching]: https://en.wikipedia.org/wiki/Record_linkage#Probabilistic_record_linkage
 [regular expressions]: https://en.wikipedia.org/wiki/Regular_expression
-[document corpus]: https://en.wikipedia.org/wiki/Text_corpus
+
 
 ## To do
 
