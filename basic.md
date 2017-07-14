@@ -23,8 +23,7 @@ If you want additional choices, such as making your bank a *mandatory key holder
 
 To do: Add more content. Some tests below.
 
-[Test button 1](http://www.google.com){: .btn}
-
-<button name="button">Test button 2</button>
-
-<button class="btn">Test button 3</button>
+* [Test button 1](http://www.google.com){: .btn}
+* <button name="button">Test button 2</button>
+* <button class="btn">Test button 3</button>
+* <a href="https://github.com/bjornte/transparent-encryption" class="btn">Test button 4</a>
