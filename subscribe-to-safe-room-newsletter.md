@@ -2,6 +2,8 @@
 
 # Subscribe to Phynti's safe room newsletter
 
+(To do: Add content)
+
 <-- Back to [Safe rooms][]
 
 [Safe rooms]: safe-rooms
