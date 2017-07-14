@@ -2,6 +2,8 @@
 
 ## Phynti safe rooms
 
+Phynti plans to offer safe rooms where scans for safety threats can happen while otherwise protecting the users' privacy.
+
 ### A common ground for public safety and personal privacy
 
 Both the EU, USA and other nations are evaluating or implementing legislations that will enforce citizens to unlock their data for scanning for safety threats (such as terrorist planning and illegal depiction of minors). 
