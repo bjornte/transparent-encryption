@@ -21,7 +21,7 @@ Scenarios:
 <-- Back to [Safe rooms][]
 
 [Safe rooms]: safe-rooms
-[Law enforcement agency]: law-enforcement-agency
+[Law enforcement agency]: law-enforcement-agencies
 [NGO key holders]: non-government-organisation
 [service provider]: service-provider
 [signed up]: basic
