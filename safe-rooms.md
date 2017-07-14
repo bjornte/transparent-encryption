@@ -1,4 +1,4 @@
-(Proposed UX specification for Phynti’s future safe rooms landing page, [phynti.com/safe-rooms][phynti-com-safe-rooms])
+(Proposed UX specification for https://phynti.com/safe-rooms)
 
 ## Phynti safe rooms
 
@@ -20,7 +20,6 @@ Read more:
 
 The safe rooms are under planning. [Click here][newsletter] to receive our development newsletter. Until legislation enforces such scans, safe room participation is voluntary.
 
-[phynti-com-safe-rooms]: https://phynti.com/safe-rooms
 [newsletter]: subscribe-to-safe-room-newsletter
 [How do the safe rooms work?]: how-do-the-safe-rooms-work
 [What is a safe room dictionary?]: what-is-a-safe-room-dictionary
