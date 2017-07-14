@@ -1,24 +1,24 @@
 (Proposed UX specification for https://phynti.com)
 
-## Phynti
+# Phynti
 
 _Keep your digital assets safe by trusting your friends._
 
-### It's human to forget. By trusting your closest friends, you can still retrieve your passwords.
+## It's human to forget. By trusting your closest friends, you can still retrieve your passwords.
 
 A situation may occur that makes you unable to recall your passwords. With Phynti, a vault for passwords & digital assets, that's OK. Using industry standard [secret sharing][], fragments of a [master passphrase][] is distributed among your closest friends.
 
-### Keep yourself safe from hackers.
+## Keep yourself safe from hackers.
 
 Your passwords & assets are protected by [the industry's best encryption][], a master passphrase of your choice, and optionally redundant [two factor authentication][]. We don't keep a copy of the master passphrase, so even if we are breached, there's nothing to steal. Our code is open source, so you can perform full due diligence on our procedures.
 
-### Set up in three clicks...
+## Set up in three clicks...
 
 The basic setup is _three_ key fragments of which _any two_ will uncover your master passphrase (when combined with a single-use SMS code sent to your phone). The fragments are distributed among your three most trusted friends or family members. 
 
 [Click here][bootstrap] to get going, and you're done in 90 seconds.
 
-### ...or design your own vault
+## ...or design your own vault
 
 * I want `three ▼` key fragments to distribute among friends. 
 * Any `two ▼` of these are required to assemble the master passphrase. 
@@ -29,6 +29,9 @@ The basic setup is _three_ key fragments of which _any two_ will uncover your ma
 
 [Click here][tailor] to finish setting up your tailored Phynti.
 
+## Safe rooms
+
+Phynti plans to offer [safe rooms][] where scans for safety threats can happen while otherwise protecting the users' privacy.
 
 [phynti]: https://phynti.com
 [phynti.com]: https://phynti.com
