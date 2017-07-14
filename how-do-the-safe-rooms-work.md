@@ -8,7 +8,7 @@ Phynti's [safe rooms] consist of both a technical infrastructure and a collabora
 * **[Service providers][]** (e.g. Facebook, Amazon, Google and Apple) who host the data on which threat monitoring is performed. The service providers make sure that the threat monitoring happens in a neutral environment outside the direct control of law enforcement agencies. 
 * Select **[law enforcement agencies][]** (e.g. Interpol), who supplies the [dictionaries][] that are used for threat monitoring, and who evaluates if results should lead to formal investigation.
 
-Phynti plans to offer [safe rooms][] where scans for safety threats can happen while otherwise protecting the users' privacy.
+<-- Back to [Safe rooms][]
 
 [NGO key holders]: #NGOs
 [Service providers]: #service-providers
