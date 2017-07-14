@@ -4,11 +4,11 @@
 
 To do: Add more content.
 
-| Your e-mail:     | `__________`  |
-| Your passphrase: | `__________`  |
-| Friend 1:        | `__________`  |
-| Friend 2:        | `__________`  |
-| Friend 3:        | `__________`  |
+| Your e-mail:     | `____________________`  |
+| Your passphrase: | `____________________`  |
+| Friend 1:        | `____________________`  |
+| Friend 2:        | `____________________`  |
+| Friend 3:        | `____________________`  |
 
 [Create account][]
 
