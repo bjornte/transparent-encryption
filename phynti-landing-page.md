@@ -12,11 +12,11 @@ A situation may occur that makes you unable to recall your passwords. With Phynt
 
 Your passwords & assets are protected by [the industry's best encryption][], a master passphrase of your choice, and optionally redundant [two factor authentication][]. We don't keep a copy of the master passphrase, so even if we are breached, there's nothing to steal. Our code is open source, so you can perform full due diligence on our procedures.
 
-## Set up in three clicks...
+## Set up a free account in three clicks...
 
 The basic setup is _three_ key fragments of which _any two_ will uncover your master passphrase (when combined with a single-use SMS code sent to your phone). The fragments are distributed among your three most trusted friends or family members. 
 
-[Click here][bootstrap] to get going, and you're done in 90 seconds.
+[Click here][basic] to get going, and you're done in 90 seconds.
 
 ## ...or design your own vault
 
@@ -37,8 +37,8 @@ Phynti plans to offer [safe rooms][] where scans for safety threats can happen w
 [master passphrase]: #master-passphrase
 [the industry's best encryption]: phyntis-encryption-scheme
 [two factor authentication]: https://en.wikipedia.org/wiki/Multi-factor_authentication
-[bootstrap]: #bootstrap
-[tailor]: #tailor
+[basic]: basic
+[tailor]: tailor
 [banks]: #banks
 [NGOs]: #NGOs
 [NGO key holder(s)]: #NGOs
