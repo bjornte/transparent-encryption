@@ -21,8 +21,8 @@ If you want additional choices, such as making your bank a *mandatory key holder
 [Create account]: #create
 [Custom setup]: custom
 
-[Click me](http://www.google.com){: .btn}
+[Test button 1](http://www.google.com){: .btn}
 
-<button name="button">Click me</button>
+<button name="button">Test button 2</button>
 
-<button class="btn">Click me</button>
+<button class="btn">Test button 3</button>
