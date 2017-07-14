@@ -2,7 +2,7 @@
 
 ## Safe room scenarios
 
-All scenarios starts as follows: 
+All scenarios start as follows: 
 
 * The user has [signed up][] with Phynti, either voluntary or due to legislation changes, and has selected her [NGO key holders][]. 
 * The [law enforcement agency][] wants to perform threat monitoring. It provides a dictionary which is green lighted by the NGOs. 
