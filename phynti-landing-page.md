@@ -40,7 +40,7 @@ The basic setup is _three_ key fragments of which _any two_ will uncover your ma
 [the industry's best encryption]: phyntis-encryption-scheme (Phynti's encryption scheme)
 [Secure Hash Algorithms]: https://en.wikipedia.org/wiki/Secure_Hash_Algorithms (Secure Hash Algorithms – Wikipedia)
 [bootstrap]: #bootstrap
-[safe rooms]: #safe-rooms
+[safe rooms]: safe-rooms
 [dictionaries]: #dictionaries
 [hashes]: https://en.wikipedia.org/wiki/Cryptographic_hash_function (Cryptographic hash function – Wikipedia)
 [tailor]: #tailor
