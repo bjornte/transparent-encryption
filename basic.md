@@ -25,3 +25,4 @@ If you want additional choices, such as making your bank a *mandatory key holder
 
 <button name="button">Click me</button>
 
+<button class="btn">Click me</button>
