@@ -1,3 +1,5 @@
+(Proposed UX specification for https://phynti.com/how-do-the-safe-rooms-work)
+
 ### How do the safe rooms work?
 
 The safe rooms consist of both a technical infrastructure and a collaboration between multiple partners. Key contributing partners are:
