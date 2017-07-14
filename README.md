@@ -13,15 +13,10 @@ A discussion on how to create controlled insight (screening) into encrypted comm
     * [Encryption scheme][]
 * [Safe rooms][]
     * [How do the safe rooms work?][]
+    * [What is a safe room dictionary?][]
  
 
-### What is a safe room dictionary?
 
-A safe room dictionary defines content that is statistically significant in terms of threat monitoring. It consists of:
-
-* Words and terms, such as _"where to purchase explosives ingredients"_.
-* [Regular expressions][], allowing for [fuzzy matching][] of above terms.
-* [Hashes][] (fingerprints) of known threats, such as Microsoft's index of illegal depiction of minors.
 
 ### How are the dictionaries used?
 
@@ -56,6 +51,7 @@ Scenarios:
 [Safe rooms]: safe-rooms
 [Encryption scheme]: phyntis-encryption-scheme 
 [How do the safe rooms work?]: how-do-the-safe-rooms-work
+[What is a safe room dictionary?]: what-is-a-safe-room-dictionary
 [phynti-com-safe-rooms]: https://phynti.com/safe-rooms
 [phynti-com-safe-room-scenarios]: https://phynti.com/safe-room-scenarios
 [Torgeir Hovden]: https://github.com/thovden
