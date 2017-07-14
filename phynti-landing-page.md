@@ -34,12 +34,12 @@ The basic setup is _three_ key fragments of which _any two_ will uncover your ma
 Phynti plans to offer [safe rooms][] where scans for safety threats can happen while otherwise protecting the users' privacy.
 
 [Secret sharing]: https://en.wikipedia.org/wiki/Secret_sharing
-[master passphrase]: #master-passphrase
+[master passphrase]: phyntis-encryption-scheme
 [the industry's best encryption]: phyntis-encryption-scheme
 [two factor authentication]: https://en.wikipedia.org/wiki/Multi-factor_authentication
 [basic]: basic
 [custom]: custom
-[banks]: #banks
-[NGOs]: #NGOs
-[NGO key holder(s)]: #NGOs
+[banks]: phyntis-encryption-scheme#mandatory-key-holders
+[NGOs]: non-government-key-holders
+[NGO key holder(s)]: non-government-key-holders
 [safe rooms]: safe-rooms
