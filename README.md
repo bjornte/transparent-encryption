@@ -160,4 +160,3 @@ Scenarios:
 And in addition, your valuables are safe from your fleeting memory.
 
 We're safer because we're different: We don't store your passwords, and we don't require you to remember the master key to the vault (although remembering it is convenient).
-
