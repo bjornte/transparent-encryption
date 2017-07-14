@@ -1,4 +1,4 @@
-(Proposed UX specification for Phynti's future landing page)
+(Proposed UX specification for https://phynti.com)
 
 ## Phynti
 
