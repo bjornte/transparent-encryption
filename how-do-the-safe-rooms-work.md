@@ -13,5 +13,5 @@ Phynti's [safe rooms] consist of both a technical infrastructure and a collabora
 [NGO key holders]: non-government-key-holders
 [Service providers]: service-providers
 [Law enforcement agencies]: law-enforcement-agencies
-[Dictionaries]: #dictionaries
+[Dictionaries]: what-is-a-safe-room-dictionary
 [Safe rooms]: safe-rooms
