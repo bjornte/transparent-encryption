@@ -1,4 +1,6 @@
-## Phynti safe rooms ([phynti.com/safe-rooms][phynti-com-safe-rooms])
+(Proposed UX specification for Phynti’s future safe rooms landing page, [phynti.com/safe-rooms][phynti-com-safe-rooms])
+
+## Phynti safe rooms
 
 ### A common ground for public safety and personal privacy
 
