@@ -6,9 +6,9 @@ To do: Add more content.
 
 | Your e-mail:     | `____________________`  |
 | Your passphrase: | `____________________`  |
-| Friend 1:        | `____________________`  |
-| Friend 2:        | `____________________`  |
-| Friend 3:        | `____________________`  |
+| Friend 1 e-mail: | `____________________`  |
+| Friend 2 e-mail: | `____________________`  |
+| Friend 3 e-mail: | `____________________`  |
 
 [Create account][]
 
