@@ -4,15 +4,19 @@
 
 To do: Add more content.
 
-| Your e-mail:     | `____________________`  |
-| Your passphrase: | `____________________`  |
-| Friend 1 e-mail: | `____________________`  |
-| Friend 2 e-mail: | `____________________`  |
-| Friend 3 e-mail: | `____________________`  |
+| Your e-mail address:               | `____________________`  | |
+| Choose your master passphrase:     | `____________________`  | (1) |
+| 1st friend's e-mail:               | `____________________`  | (2) |
+| 2nd friend's e-mail:               | `____________________`  | |
+| 3rd friend's e-mail:               | `____________________`  | |
 
 [Create account][]
 
-The basic setup is *three* key fragments of which *any two* will uncover your master passphrase (when combined with a single-use SMS code sent to your phone). If you want additional choices, such as making your bank a *mandatory key holder*, please use the [custom setup][].
+If you want additional choices, such as making your bank a *mandatory key holder*, please use the [custom setup][].
+
+(1) Your master passphrase should consist of at least four words. It is **_not_** stored by Phynti. It is recoverable when two of your friends share their key fragments with you, when combined with a single-use SMS code sent to your phone.
+
+(2) Your friends will receive an e-mail with instructions on how to store the key fragment Phynti shares with them. By design, Phynti does **_not_** store the key fragment in a way that allows Phynti to retrieve it if your friend should lose it.
 
 [Create account]: #create
 [Custom setup]: custom
