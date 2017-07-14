@@ -10,12 +10,9 @@ A discussion on how to create controlled insight (screening) into encrypted comm
 # Phynti UX spec (wireframes & written material)
 
 * [phynti.com landing page][Phynti landing page]
+* [Encryption scheme][]
 * [Safe rooms][]
 
-### Phynti's encryption scheme
-<a name="phyntis-encryption-scheme"></a>
-
-By default, Phynti employs both [SHA-512 and SHA-3][Secure Hash Algorithms]. Both are Secure Hash Algorithms from a family of cryptographic hash functions. SHA-512 was designed by the NSA in 2001. SHA-3, formerly called Keccak, was designed by non-NSA designers in 2015, and its internal structure differs significantly. Your Phynti passphrase is split in two separate hashes used as passwords for the individual algorithms, and both are used (sequentially) to encrypt all your content.
 
 
 
@@ -67,7 +64,8 @@ Scenarios:
 [phynti]: https://phynti.com
 [phynti.com]: https://phynti.com
 [Phynti landing page]: phynti-landing-page
-[safe rooms]: safe-rooms
+[Safe rooms]: safe-rooms
+[Encryption scheme]: phyntis-encryption-scheme 
 [phynti-com-safe-rooms]: https://phynti.com/safe-rooms
 [phynti-com-safe-room-scenarios]: https://phynti.com/safe-room-scenarios
 [Torgeir Hovden]: https://github.com/thovden
