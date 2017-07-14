@@ -6,7 +6,7 @@ _Keep your digital assets safe by trusting your friends._
 
 ## It's human to forget. By trusting your closest friends, you can still retrieve your passwords.
 
-A situation may occur that makes you unable to recall your passwords. With Phynti, a vault for passwords & digital assets, that's OK. Using industry standard [secret sharing][], fragments of a [master passphrase][] is distributed among your closest friends.
+A situation may occur that makes you unable to recall your passwords. With Phynti, a vault for passwords & digital assets, that's OK. Using industry standard [secret sharing][], fragments of a *master passphrase* is distributed among your closest friends.
 
 ## Keep yourself safe from hackers.
 
@@ -33,9 +33,8 @@ The basic setup is _three_ key fragments of which _any two_ will uncover your ma
 
 Phynti plans to offer [safe rooms][] where scans for safety threats can happen while otherwise protecting the users' privacy.
 
-[Secret sharing]: https://en.wikipedia.org/wiki/Secret_sharing
-[master passphrase]: phyntis-encryption-scheme
-[the industry's best encryption]: phyntis-encryption-scheme
+[Secret sharing]: encryption-scheme
+[the industry's best encryption]: encryption-scheme
 [two factor authentication]: https://en.wikipedia.org/wiki/Multi-factor_authentication
 [basic]: basic
 [custom]: custom
