@@ -10,8 +10,8 @@ Phynti's [safe rooms] consist of both a technical infrastructure and a collabora
 
 <-- Back to [Safe rooms][]
 
-[NGO key holders]: #NGOs
-[Service providers]: #service-providers
-[Law enforcement agencies]: #law-enforcement-agencies
+[NGO key holders]: non-government-key-holders
+[Service providers]: service-providers
+[Law enforcement agencies]: law-enforcement-agencies
 [Dictionaries]: #dictionaries
 [Safe rooms]: safe-rooms
