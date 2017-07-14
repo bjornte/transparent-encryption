@@ -16,3 +16,4 @@ The basic setup is *three* key fragments of which *any two* will uncover your ma
 
 [Create account]: #create
 [Custom setup]: custom
+
