@@ -11,7 +11,7 @@
 | 2nd friend's e-mail:               | `____________________`  | |
 | 3rd friend's e-mail:               | `____________________`  | |
 
-<button>Create account</button>
+<button>Create a free account</button>
 
 If you want additional choices, such as making your bank a *mandatory key holder* or choosing another means of two factor authentication, please use the [custom setup][].
 
