@@ -1,9 +1,8 @@
-# transparent-encryption
-A discussion on how to create controlled insight (screening) into encrypted communication
+This repository is an illustration hopefully fuelling a discussion on how to create controlled insight (monitoring or screening) into encrypted communication without depriving indivuiduals of their privacy.
 
-* This project is considered merged with [Phynti][] by [Torgeir Hovden][]. 
-* Proposed new description of Phynti below. 
-* Old readme for this repository is [here](README-old.md).
+* The repository is considered merged with [Phynti][] by [Torgeir Hovden][]. 
+* Proposed new user experience (UX) specification of Phynti below. 
+* An older description for this repository is [here](README-old.md).
 
 ---
 
