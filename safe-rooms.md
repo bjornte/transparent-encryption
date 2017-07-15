@@ -2,7 +2,7 @@
 
 ## Phynti safe rooms
 
-Phynti plans to offer safe rooms where scans for safety threats can happen while otherwise protecting the users' privacy.
+[Phynti][] plans to offer safe rooms where scans for safety threats can happen while otherwise protecting the users' privacy.
 
 ### A common ground for public safety and personal privacy
 
@@ -23,6 +23,7 @@ Read more:
 
 The safe rooms are under planning. [Click here][newsletter] to receive our development newsletter. Until legislation enforces such scans, safe room participation is voluntary.
 
+[phynti]: phynti-landing-page
 [newsletter]: subscribe-to-safe-room-newsletter
 [safeguarded]: non-government-key-holders
 [How do the safe rooms work?]: how-do-the-safe-rooms-work
