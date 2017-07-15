@@ -18,13 +18,13 @@ A discussion on how to create controlled insight (screening) into encrypted comm
     * [Safe room scenarios][]
 
 [phynti]: https://phynti.com
-[Phynti landing page]: phynti-landing-page
-[Safe rooms]: safe-rooms
-[Encryption scheme]: encryption-scheme 
-[How do the safe rooms work?]: how-do-the-safe-rooms-work
-[What is a safe room dictionary?]: what-is-a-safe-room-dictionary
-[How are the dictionaries used?]: how-are-the-dictionaries-used
-[Safe room scenarios]: safe-room-scenarios
+[Phynti landing page]: http://bjornte.github.io/transparent-encryption/phynti-landing-page
+[Safe rooms]: http://bjornte.github.io/transparent-encryption/safe-rooms
+[Encryption scheme]: http://bjornte.github.io/transparent-encryption/encryption-scheme 
+[How do the safe rooms work?]: http://bjornte.github.io/transparent-encryption/how-do-the-safe-rooms-work
+[What is a safe room dictionary?]: http://bjornte.github.io/transparent-encryption/what-is-a-safe-room-dictionary
+[How are the dictionaries used?]: http://bjornte.github.io/transparent-encryption/how-are-the-dictionaries-used
+[Safe room scenarios]: http://bjornte.github.io/transparent-encryption/safe-room-scenarios
 [Torgeir Hovden]: https://github.com/thovden
 
 ---
