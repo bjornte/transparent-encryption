@@ -1,4 +1,4 @@
-(Proposed UX specification for https://phynti.com/safe-rooms)
+(Proposed [UX specification][] for https://phynti.com/safe-rooms)
 
 ## Phynti safe rooms
 
@@ -25,6 +25,7 @@ The safe rooms are under planning. [Click here][newsletter] to receive our devel
 
 --> Set up a [free, basic Phynti account][] or [tailor Phynti to your needs][].
 
+[UX specification]: https://github.com/bjornte/transparent-encryption/
 [phynti]: phynti-landing-page
 [newsletter]: subscribe-to-safe-room-newsletter
 [safeguarded]: non-government-key-holders
