@@ -5,7 +5,9 @@ This repository is an illustration hopefully fuelling a discussion on how to cre
 
 ---
 
-# Phynti UX spec (wireframes & written material)
+# Phynti UX spec
+
+For the time being, there is only written material and no wireframes.
 
 * [phynti.com landing page][Phynti landing page]
     * [Encryption scheme][]
