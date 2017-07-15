@@ -23,6 +23,8 @@ Read more:
 
 The safe rooms are under planning. [Click here][newsletter] to receive our development newsletter. Until legislation enforces such scans, safe room participation is voluntary.
 
+--> Set up a [free, basic Phynti account][] or [tailor Phynti to your needs][].
+
 [phynti]: phynti-landing-page
 [newsletter]: subscribe-to-safe-room-newsletter
 [safeguarded]: non-government-key-holders
@@ -30,3 +32,5 @@ The safe rooms are under planning. [Click here][newsletter] to receive our devel
 [What is a safe room dictionary?]: what-is-a-safe-room-dictionary
 [How are the dictionaries used?]: how-are-the-dictionaries-used
 [Safe room scenarios]: safe-room-scenarios
+[free, basic Phynti account]: basic
+[tailor Phynti to your needs]: custom
