@@ -2,7 +2,6 @@ This repository is an illustration hopefully fuelling a discussion on how to cre
 
 * The repository is considered merged with [Phynti][] by [Torgeir Hovden][]. 
 * Proposed new user experience (UX) specification of Phynti below. 
-* An older description for this repository is [here](README-old.md).
 
 ---
 
@@ -16,17 +15,9 @@ This repository is an illustration hopefully fuelling a discussion on how to cre
     * [How are the dictionaries used?][]
     * [Safe room scenarios][]
 
-[phynti]: https://phynti.com
-[Phynti landing page]: http://bjornte.github.io/transparent-encryption/phynti-landing-page
-[Safe rooms]: http://bjornte.github.io/transparent-encryption/safe-rooms
-[Encryption scheme]: http://bjornte.github.io/transparent-encryption/encryption-scheme 
-[How do the safe rooms work?]: http://bjornte.github.io/transparent-encryption/how-do-the-safe-rooms-work
-[What is a safe room dictionary?]: http://bjornte.github.io/transparent-encryption/what-is-a-safe-room-dictionary
-[How are the dictionaries used?]: http://bjornte.github.io/transparent-encryption/how-are-the-dictionaries-used
-[Safe room scenarios]: http://bjornte.github.io/transparent-encryption/safe-room-scenarios
-[Torgeir Hovden]: https://github.com/thovden
+## Background info
 
----
+An older description for this repository is [here](README-old.md). A related question was asked on [security.stackexchange.com][security.stackexchange.com question], but potentially because of the political nature of the question, it was closed. Perhaps in time it can be reopened.
 
 ## To do
 
@@ -59,3 +50,16 @@ This repository is an illustration hopefully fuelling a discussion on how to cre
 And in addition, your valuables are safe from your fleeting memory.
 
 We're safer because we're different: We don't store your passwords, and we don't require you to remember the master key to the vault (although remembering it is convenient).
+
+
+[phynti]: https://phynti.com
+[Phynti landing page]: http://bjornte.github.io/transparent-encryption/phynti-landing-page
+[Safe rooms]: http://bjornte.github.io/transparent-encryption/safe-rooms
+[Encryption scheme]: http://bjornte.github.io/transparent-encryption/encryption-scheme 
+[How do the safe rooms work?]: http://bjornte.github.io/transparent-encryption/how-do-the-safe-rooms-work
+[What is a safe room dictionary?]: http://bjornte.github.io/transparent-encryption/what-is-a-safe-room-dictionary
+[How are the dictionaries used?]: http://bjornte.github.io/transparent-encryption/how-are-the-dictionaries-used
+[Safe room scenarios]: http://bjornte.github.io/transparent-encryption/safe-room-scenarios
+[Torgeir Hovden]: https://github.com/thovden
+[security.stackexchange.com question]: https://security.stackexchange.com/questions/118227/a-service-for-sharing-partial-passwords-with-key-holders-for-screening-purpo
+
