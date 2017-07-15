@@ -3,3 +3,5 @@
 # Custom setup
 
 Content is lacking.
+
+(This is a GIT commit test)
