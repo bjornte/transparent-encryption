@@ -18,6 +18,8 @@ Scenarios:
 * **Innocent user with suspicious content:** Some results are produced for the user. The NGOs review the results and deem them potentially suspicious. The law enforcement agency is given results in which indentities are substituted with pseudonyms. It cannot make a case for formal investigation, and the individual's identity is not revealed.
 * **Malicious user with suspicious content:** Some results are produced for the user. The NGOs review the results and deem them potentially suspicious. The law enforcement agency is given results in which indentities are substituted with pseudonyms. It convinces the NGOs that there is a case for formal investigation. The individual's identity is revealed.
 
+Additionally, it will be neccessary with tests that can confirm to both the user and the law enforcement agencies that the safe rooms are working as intended without actual monitoring taking place.
+
 <-- Back to [Safe rooms][]
 
 [Safe rooms]: safe-rooms
