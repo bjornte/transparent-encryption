@@ -4,4 +4,4 @@
 
 Content is lacking.
 
-(This is a GIT commit test)
+(This is the second GIT commit test)
