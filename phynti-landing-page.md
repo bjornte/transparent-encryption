@@ -4,6 +4,8 @@
 
 _Keep your digital assets safe by trusting your friends._
 
+<button>Create a free account</button>
+
 ## It's human to forget. By trusting your closest friends, you can still retrieve your passwords.
 
 A situation may occur that makes you unable to recall your passwords. With Phynti, a vault for passwords & digital assets, that's OK. Using industry standard [secret sharing][], fragments of a *master passphrase* is distributed among your closest friends.
