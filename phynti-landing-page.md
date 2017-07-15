@@ -1,4 +1,4 @@
-(Proposed UX specification for https://phynti.com)
+(Proposed [UX specification][] for https://phynti.com)
 
 # Phynti
 
@@ -35,6 +35,7 @@ The basic setup is _three_ key fragments of which _any two_ will uncover your ma
 
 Phynti plans to offer [safe rooms][] where scans for safety threats can happen while otherwise protecting the users' privacy.
 
+[UX specification]: https://github.com/bjornte/transparent-encryption/
 [Secret sharing]: encryption-scheme
 [the industry's best encryption]: encryption-scheme
 [two factor authentication]: https://en.wikipedia.org/wiki/Multi-factor_authentication
