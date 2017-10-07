@@ -1,3 +1,5 @@
+(This is the first version of the landing page, showing what it look like in March 2016 before this effort was [merged with Phynti](README.md).)
+
 # Transparent encryption
 
 Welcome!
