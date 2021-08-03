@@ -41,7 +41,7 @@ Phynti plans to offer [safe rooms][] where scans for safety threats can happen w
 [two factor authentication]: https://en.wikipedia.org/wiki/Multi-factor_authentication
 [basic]: basic
 [custom]: custom
-[banks]: phyntis-encryption-scheme#mandatory-key-holders
+[banks]: encryption-scheme#mandatory-key-holders
 [NGOs]: non-government-key-holders
 [NGO key holder(s)]: non-government-key-holders
 [safe rooms]: safe-rooms
