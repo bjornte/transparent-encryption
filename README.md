@@ -1,6 +1,5 @@
-**Purpose:** To contribute to illustrating how to create controlled insight (monitoring or screening) into encrypted communication without depriving indivuiduals of their privacy.
-
-**Contents:** A high level user experience (UX) specification or illustration of a hypothetic end-user application and associated communication material
+* **Purpose:** To contribute to illustrating how to create controlled insight (monitoring or screening) into encrypted communication without depriving indivuiduals of their privacy
+* **Contents:** A high level user experience (UX) specification or illustration of a hypothetic end-user application and associated communication material
 
 ---
 
