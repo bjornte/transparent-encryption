@@ -1,7 +1,6 @@
-This repository hopes to contribute to illustrating how to create controlled insight (monitoring or screening) into encrypted communication without depriving indivuiduals of their privacy.
+**Purpose:** To contribute to illustrating how to create controlled insight (monitoring or screening) into encrypted communication without depriving indivuiduals of their privacy.
 
-Below is a hypothetic user experience (UX) specification related to [Phynti][] by [Torgeir Hovden][]. 
-
+**Contents:** A high level user experience (UX) specification or illustration of a hypothetic end-user application and associated communication material
 
 ---
 
@@ -20,6 +19,8 @@ For the time being, there is only written material and no wireframes.
 ## Background info
 
 An older description for this repository is [here](README-old.md). A related question was asked on [security.stackexchange.com][security.stackexchange.com question], but potentially because of the political nature of the question, it was closed. Perhaps in time it can be reopened.
+
+This repository and initiative is related to [Phynti][] by [Torgeir Hovden][].
 
 ## To do
 
