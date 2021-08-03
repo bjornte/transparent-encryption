@@ -12,7 +12,7 @@ A situation may occur that makes you unable to recall your passwords. With Phynt
 
 ## Keep yourself safe from hackers.
 
-Your passwords & assets are protected by [the industry's best encryption][], a master passphrase of your choice, and optionally redundant [two factor authentication][]. We don't keep a copy of the master passphrase, so even if we are breached, there's nothing to steal. Our code is open source, so you can perform full due diligence on our procedures.
+Your passwords & assets are protected by [the industry's best encryption][], a master passphrase of your choice, and optionally redundant [two factor authentication][] \[W]. We don't keep a copy of the master passphrase, so even if we are breached, there's nothing to steal. Our code is open source, so you can perform full due diligence on our procedures.
 
 ## Set up a free account in three clicks...
 
