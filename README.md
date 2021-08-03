@@ -1,6 +1,6 @@
 This repository is an illustration hopefully fuelling a discussion on how to create controlled insight (monitoring or screening) into encrypted communication without depriving indivuiduals of their privacy.
 
-* The repository is considered merged with [Phynti][] by [Torgeir Hovden][]. 
+* The repository is related to [Phynti][] by [Torgeir Hovden][]. 
 * Proposed new user experience (UX) specification of Phynti below. 
 
 ---
