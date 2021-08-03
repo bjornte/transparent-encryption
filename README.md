@@ -1,15 +1,15 @@
-This repository is an illustration hopefully fuelling a discussion on how to create controlled insight (monitoring or screening) into encrypted communication without depriving indivuiduals of their privacy.
+This repository hopes to contribute to illustrating how to create controlled insight (monitoring or screening) into encrypted communication without depriving indivuiduals of their privacy.
 
-* The repository is related to [Phynti][] by [Torgeir Hovden][]. 
-* Hypothetic user experience (UX) specification related to Phynti below. 
+Below is a hypothetic user experience (UX) specification related to [Phynti][] by [Torgeir Hovden][]. 
+
 
 ---
 
-# Phynti UX spec
+# UX spec
 
 For the time being, there is only written material and no wireframes.
 
-* [phynti.com landing page][Phynti landing page]
+* [Landing page][]
     * [Encryption scheme][]
 * [Safe rooms][]
     * [How do the safe rooms work?][]
@@ -23,12 +23,11 @@ An older description for this repository is [here](README-old.md). A related que
 
 ## To do
 
-* Feedback from Torgeir.
 * Improve texts
     * Proof reading.
     * Simplify further.  
     * More detailed information on technical issues.
-    * Norwegian version if we want to pitch to government stakeholders.
+    * Consider Norwegian version if pitching to local, public stakeholders.
 * More detailed interaction design
     * Detailed flow for setting up a basic Phynti account with messages to friends etc.
     * Illustrations.
@@ -55,7 +54,7 @@ We're safer because we're different: We don't store your passwords, and we don't
 
 
 [phynti]: https://phynti.com
-[Phynti landing page]: http://bjornte.github.io/transparent-encryption/phynti-landing-page
+[Landing page]: http://bjornte.github.io/transparent-encryption/phynti-landing-page
 [Safe rooms]: http://bjornte.github.io/transparent-encryption/safe-rooms
 [Encryption scheme]: http://bjornte.github.io/transparent-encryption/encryption-scheme 
 [How do the safe rooms work?]: http://bjornte.github.io/transparent-encryption/how-do-the-safe-rooms-work
